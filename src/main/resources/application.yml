@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: logback-test
+  profiles:
+    active: dev

@@ -1,0 +1,14 @@
+2019-04-21 00:07:23.435 [main] INFO  com.example.demo.LogbackApplication - Starting LogbackApplication on wzh-PC with PID 4584 (C:\Users\wzh\Desktop\worker\LogbackTest\target\classes started by wzh in C:\Users\wzh\Desktop\worker\LogbackTest)
+2019-04-21 00:07:23.441 [main] INFO  com.example.demo.LogbackApplication - The following profiles are active: dev
+2019-04-21 00:07:25.347 [main] INFO  com.example.demo.LogbackApplication - Started LogbackApplication in 2.539 seconds (JVM running for 3.955)
+2019-04-21 00:09:06.998 [main] INFO  com.example.demo.LogbackApplication - Starting LogbackApplication on wzh-PC with PID 7628 (C:\Users\wzh\Desktop\worker\LogbackTest\target\classes started by wzh in C:\Users\wzh\Desktop\worker\LogbackTest)
+2019-04-21 00:09:07.007 [main] INFO  com.example.demo.LogbackApplication - The following profiles are active: dev
+2019-04-21 00:09:09.154 [main] INFO  com.example.demo.LogbackApplication - Started LogbackApplication in 3.134 seconds (JVM running for 4.822)
+2019-04-21 00:09:35.963 [main] INFO  com.example.demo.user.TestController - ========info=========
+2019-04-21 00:10:32.250 [main] INFO  com.example.demo.user.TestController - ========info=========
+2019-04-21 00:14:48.051 [main] INFO  com.example.demo.LogbackApplication - Starting LogbackApplication on wzh-PC with PID 8612 (C:\Users\wzh\Desktop\worker\LogbackTest\target\classes started by wzh in C:\Users\wzh\Desktop\worker\LogbackTest)
+2019-04-21 00:14:48.057 [main] INFO  com.example.demo.LogbackApplication - The following profiles are active: dev
+2019-04-21 00:14:50.057 [main] INFO  com.example.demo.LogbackApplication - Started LogbackApplication in 3.262 seconds (JVM running for 4.613)
+2019-04-21 21:35:23.096 [main] INFO  com.example.demo.LogbackApplication - Starting LogbackApplication on wzh-PC with PID 8884 (C:\Users\wzh\Desktop\worker\LogbackTest\target\classes started by wzh in C:\Users\wzh\Desktop\worker\LogbackTest)
+2019-04-21 21:35:23.101 [main] INFO  com.example.demo.LogbackApplication - The following profiles are active: dev
+2019-04-21 21:35:25.801 [main] INFO  com.example.demo.LogbackApplication - Started LogbackApplication in 4.7 seconds (JVM running for 7.575)
